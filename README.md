@@ -175,6 +175,6 @@ ___
 *如果你想要一起学习进步  ，任选一种电子版获取方式*  
 - 1.扫描下面这个二维码索取： 
 
-![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_6902.JPG?x-oss-process=image/resize,w_300/)
+![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/QQ20220609-091538@2x.png?x-oss-process=image/resize,w_300/)
 
 - 2.发送邮件：qingzhu.us@gmail.com 直接索取对应的电子书 
