@@ -1,5 +1,5 @@
 
-# 计算机图形学系列丛书
+# [计算机图形学系列丛书](https://github.com/zwluoqi/graphic_books)
 - 本人呕心沥血收集到的图形学相关丛书，免费送给大家。主要是英文图书，大部分相关领域的书还是英文的，工作需要，主要文献还是英文，所以提高英文阅读能力还是比较重要的，不过要是能知道对应的中文版，我还是会在后面贴出来的。涉及图形学基础、算法、几何、引擎研究、流体物理、游戏编程精粹、GPU精粹、GPUPro、图形API、图形学数学、非真实感渲染、程序化生成、物理引擎、多边形、光线追踪、游戏渲染、shader编程等。
 - 电子版获取方式在最下面。
 
@@ -100,6 +100,8 @@ ___
 | |OpenGL Programming Guide 9th Edition | ![x](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/graphic_book/images/graphic_api/OpenGL-Programming-Guide-9th-Edition.png?x-oss-process=image/resize,w_300/watermark,text_cWluZ3podQ==,color_FFFFFF,size_24) |[Download](https://www.github.com/zwluoqi/graphic_books/blob/master/160004.md)  |160004|
 | |practical rendering and computation with direct3d 11 | ![x](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/graphic_book/images/graphic_api/practical-rendering-and-computation-with-direct3d-11.png?x-oss-process=image/resize,w_300/watermark,text_cWluZ3podQ==,color_FFFFFF,size_24) |[Download](https://www.github.com/zwluoqi/graphic_books/blob/master/160005.md)  |160005|
 | |Real Time 3D Rendering with DirectX and HLSL | ![x](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/graphic_book/images/graphic_api/Real-Time-3D-Rendering-with-DirectX-and-HLSL.png?x-oss-process=image/resize,w_300/watermark,text_cWluZ3podQ==,color_FFFFFF,size_24) |[Download](https://www.github.com/zwluoqi/graphic_books/blob/master/160006.md)  |160006|
+| |Introduction-To-3D-Game-Programming-With-DirectX-9.0 |  |  |160007|
+| |Introduction-to-3D-Game-Programming-with-DirectX-11 |  |  |160008|
 | math | | | | |
 | |3D Math Primer for Graphics and Game Development 2nd Edgnv64 | ![x](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/graphic_book/images/math/3D-Math-Primer-for-Graphics-and-Game-Development-2nd-Edgnv64.png?x-oss-process=image/resize,w_300/watermark,text_cWluZ3podQ==,color_FFFFFF,size_24) |[Download](https://www.github.com/zwluoqi/graphic_books/blob/master/170001.md)  |170001|
 | |3D游戏与计算机图形学中的数学方法 | ![x](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/graphic_book/images/math/3D游戏与计算机图形学中的数学方法.png?x-oss-process=image/resize,w_300/watermark,text_cWluZ3podQ==,color_FFFFFF,size_24) |[Download](https://www.github.com/zwluoqi/graphic_books/blob/master/170002.md)  |170002|
