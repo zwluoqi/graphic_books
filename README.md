@@ -2,6 +2,7 @@
 # [计算机图形学系列丛书](https://github.com/zwluoqi/graphic_books)
 - 本人呕心沥血收集到的图形学相关丛书，免费送给大家。主要是英文图书，大部分相关领域的书还是英文的，不过要是能知道对应的中文版，我还是会在后面贴出来的。涉及图形学基础、算法、几何、引擎研究、流体物理、游戏编程精粹、GPU精粹、GPUPro、图形API、图形学数学、非真实感渲染、程序化生成、物理引擎、多边形、光线追踪、游戏渲染、shader编程等。
 - 电子版获取方式在最下面。
+- 下载地址已经迁移至：https://freebook.claudegirl.com
 
 ___
 
@@ -184,9 +185,3 @@ ___
 
 
 ___
-
-*如果你想要一起学习进步  ，任选一种电子版获取方式*  
-- 1.发送邮件：qingzhu.us@gmail.com 直接索取对应的电子书 
-- 2.关注这个公众号回复对应书籍编号：  
-
-![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/)
